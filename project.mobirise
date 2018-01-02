@@ -1,0 +1,63 @@
+{
+  "settings": {
+    "name": "Site-01-02_1822",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise4",
+      "title": "Mobirise 4",
+      "styling": {
+        "primaryColor": "#149dcc",
+        "secondaryColor": "#ff3366",
+        "successColor": "#F7ED4A",
+        "infoColor": "#82786E",
+        "warningColor": "#879A9F",
+        "dangerColor": "#B1A374",
+        "mainFont": "Rubik",
+        "display1Font": "Rubik",
+        "display1Size": 4.25,
+        "display2Font": "Rubik",
+        "display2Size": 3,
+        "display5Font": "Rubik",
+        "display5Size": 1.5,
+        "display7Font": "Rubik",
+        "display7Size": 1,
+        "display4Font": "Rubik",
+        "display4Size": 1,
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "4.5.2",
+    "uniqCompNum": 1,
+    "versionPublish": "4.5.2"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "\n\n    <title>Casino Fiz</title>\n\n\n\n<!--<div class=\"embedded-game-wrapper\"> -->\n<iframe src=\"https://www.casinocontroller.com/vegasfiesta/engine/EmbedGame/EmbedGame.php?mode=lobby&amp;lang=fr&amp;game_id=0&amp;anon=1&amp;t=&amp;returnUrl=http://vegasfiesta.fr/en/games\" width=\"1024\" height=\"768\" frameborder=\"0\" scrolling=\"No\" id=\"embedded_game\" name=\"embedded_game\">\n</iframe>\n\n<!--</div> -->\n\n\n\n",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-0",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        }
+      ]
+    }
+  }
+}
