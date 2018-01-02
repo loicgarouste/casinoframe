@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-01-02_1822",
+    "name": "CASINOFRAME",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -30,7 +30,14 @@
     },
     "versionFirst": "4.5.2",
     "uniqCompNum": 1,
-    "versionPublish": "4.5.2"
+    "versionPublish": "4.5.2",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "siteUrl": "undefined",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
