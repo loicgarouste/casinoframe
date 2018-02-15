@@ -32,7 +32,7 @@
     "uniqCompNum": 5,
     "versionPublish": "4.6.2",
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "google-analytics": "",
     "cookiesAlert": "",
     "siteUrl": "undefined",
@@ -53,7 +53,7 @@
         {
           "_styles": {},
           "_name": "video3",
-          "_customHTML": "\n                <iframe src=\"https://www.casinocontroller.com/vegasfiesta/engine/EmbedGame/EmbedGame.php&lang=fr&game_id=0&anon=0\" width=\"1024\" height=\"768\" frameborder=\"0\" scrolling=\"No\" id=\"embedded_game\" name=\"embedded_game\">\n</iframe>\n\n",
+          "_customHTML": "<iframe height=\"772\" width=\"1028\" src=\"https://www.casinocontroller.com/vegasfiesta/engine/EmbedGame/EmbedGame.php?mode=lobby\"></iframe>\n\n",
           "_cid": "qFAXybN5vi",
           "_anchor": "video3-4",
           "_PHPplaceholders": [],
