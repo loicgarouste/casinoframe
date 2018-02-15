@@ -51,31 +51,9 @@
       },
       "components": [
         {
-          "_styles": {
-            "& when (@fullWidth = false)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "background": "@bgColor",
-            "& when (@gradientBg)": {
-              "background": "linear-gradient(0deg, @bgColor, @color2)"
-            },
-            ".video-block": {
-              "width": "1024px !important"
-            },
-            "@media (max-width: 1024px)": {
-              ".video-block": {
-                "width": "1024px !important"
-              }
-            },
-            "@media (max-height: 768px)": {
-              ".video-block": {
-                "height": "768px !important"
-              }
-            }
-          },
+          "_styles": {},
           "_name": "video3",
-          "_customHTML": "<section group=\"Images &amp; Videos\">\n\n\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n                <iframe src=\"https://www.casinocontroller.com/vegasfiesta/engine/EmbedGame/EmbedGame.php?mode=lobby&lang=fr&game_id=0&anon=0\" width=\"1024\" height=\"768\" frameborder=\"0\" scrolling=\"No\" id=\"embedded_game\" name=\"embedded_game\">\n</iframe>\n            </div>\n</section>\n",
+          "_customHTML": "\n                <iframe src=\"https://www.casinocontroller.com/vegasfiesta/engine/EmbedGame/EmbedGame.php&lang=fr&game_id=0&anon=0\" width=\"1024\" height=\"768\" frameborder=\"0\" scrolling=\"No\" id=\"embedded_game\" name=\"embedded_game\">\n</iframe>\n\n",
           "_cid": "qFAXybN5vi",
           "_anchor": "video3-4",
           "_PHPplaceholders": [],
